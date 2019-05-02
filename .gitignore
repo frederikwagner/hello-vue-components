@@ -4,7 +4,6 @@ Thumbs.db
 
 # Dependencies
 node_modules/
-yarn.lock
 
 # Dev/Build Artifacts
 /dist/
